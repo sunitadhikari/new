@@ -1,13 +1,11 @@
-*{
-    margin: 0px;;
-    padding:0px;
+.usermodel{
+    height: 200px;
+    width: 400px;
+    background-color: blue;
+    padding-left:20px;
+    margin:50px;
 }
-.border{
-    width:500px;
-    height: 300px;
-    background-color: purple;
-    /* border-width: 20px;
-    border-color: black;
-    border-style: dotted; */
-    border:5px solif dashed
-}
+input{
+    padding: 20px 7px px 20px;
+    margin-top: 30px;
+} 
