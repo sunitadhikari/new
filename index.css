@@ -1,11 +1,28 @@
-.usermodel{
-    height: 200px;
-    width: 400px;
+ .father{
+    width:400px;
+    height:300px;
+    background-color: rgb(225, 114, 114);
+    position: relative;
+ }
+ .child{
+    height:20px;
+    width:50px;
     background-color: blue;
-    padding-left:20px;
-    margin:50px;
-}
-input{
-    padding: 20px 7px px 20px;
-    margin-top: 30px;
-} 
+    position: absolute;
+    left:0;
+ }
+ .chil{
+    height:20px;
+    width:50px;
+    background-color: rgb(210, 192, 31);
+    position: absolute ;
+    right:0;
+ }
+ .chi{
+    height:20px;
+    width:50px;
+    background-color: rgb(35, 187, 65);
+    position: absolute;
+    bottom: 0;
+    right:0;
+ }
