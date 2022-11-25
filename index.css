@@ -1,28 +1,10 @@
- .father{
-    width:400px;
-    height:300px;
-    background-color: rgb(225, 114, 114);
-    position: relative;
- }
- .child{
-    height:20px;
-    width:50px;
-    background-color: blue;
-    position: absolute;
-   left:0;
- }
- .chil{
-    height:20px;
-    width:50px;
-    background-color: rgb(210, 192, 31);
-    position: absolute ;
-    z-index: 3;
- }
-    
- .chi{
-    height:20px;
-    width:50px;
-    background-color: rgb(35, 187, 65);
-    position: absolute;
-
- }
+.head{
+   width:230px;
+   height:400px;
+   background-color: blue;;
+}
+.logo{
+   width:30px;
+   height:50px;
+   background-color: aqua;
+}
