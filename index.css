@@ -28,6 +28,6 @@ ul{
 }
 li{
    display: flex;
-   border:1px solid blue;
+   /* border:1px solid blue; */
    padding:0 10px;
 }
