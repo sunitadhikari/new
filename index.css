@@ -1,6 +1,6 @@
 .head{
    width:230px;
-   height:400px;
+   height:30%px;
    background-color: blue;
 }
 /* div{
@@ -13,10 +13,21 @@
    line-height:80px;
    text-align:center ;
    background-color: aqua;
-   float:right ;
+   float:left ;
 } 
 .menu{
-   width:70%;
+   width:100%;
    line-height:80px;
    background-color: red;
+   float: right;
+}
+ul{
+   list-style: none;
+   text-align: left;
+  padding:0 10px;
+}
+li{
+   display: flex;
+   border:1px solid blue;
+   padding:0 10px;
 }
