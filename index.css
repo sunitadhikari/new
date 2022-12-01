@@ -4,7 +4,14 @@
    background-color: blue;;
 }
 .logo{
-   width:30px;
-   height:50px;
+   width:30%;
+   line-height:80px;
+   text-align:center ;
    background-color: aqua;
+   float:left ;
+} 
+.menu{
+   width:70%;
+   line-height:80px;
+   background-color: red;
 }
