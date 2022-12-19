@@ -31,6 +31,9 @@ li{
    /* border:1px solid blue; */
   
 div{
+   /* display:inline; */
+   /* display:block; */
+   display:inline-block;
    background-color: blue;
    outline:2px solid rgb(22, 18, 18);
    height:200px;
