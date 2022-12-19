@@ -1,4 +1,4 @@
-.head{
+/* .head{
    width:230px;
    height:30%px;
    background-color: blue;
@@ -8,7 +8,7 @@
    height:850px;
    background-color: black;
 } */
-.logo{
+/* .logo{
    width:30%;
    line-height:80px;
    text-align:center ;
@@ -29,5 +29,12 @@ ul{
 li{
    display: flex;
    /* border:1px solid blue; */
-   padding:0 10px;
+  
+div{
+   background-color: blue;
+   outline:2px solid rgb(22, 18, 18);
+   height:200px;
+   width:200px;
+   font-size: 70px;
+   margin:50px;
 }
